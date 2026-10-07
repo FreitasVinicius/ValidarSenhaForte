@@ -1,18 +1,2 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Conclusão:
+- A atividade demonstra que podemos utilizar condições e laços de repetição para avaliar uma senha. Porém, passar nessas regras não garante que uma senha seja realmente segura. Uma senha pode ter números, letras maiúsculas e o tamanho mínimo, mas ainda ser fácil de descobrir. O desenvolvedor deve orientar o usuário a criar senhas difíceis de adivinhar. Também deve evitar salvar senhas em arquivos ou exibi-las nas mensagens do programa. Em sistemas reais, é necessário aplicar outras medidas de segurança. Por isso, as regras deste exercício servem apenas para praticar a programação. 
